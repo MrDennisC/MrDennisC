@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi there. Welcome to my profile!</h1>
+<h2 align="center">I'm MrDennis, but you can call me Dennis.</h2>
+<h3 align="center">Im forever a tech lover.</h3>
+<p align="center">🚀 What I work with: </p>
+<p align="center">🖥️ Windows</p>
+<p align="center">🐧 Linux - Debian Based Distro</p>
+<p align="center">💻 Visual Studio 2022</p>
+<p align="center">📝 Visual Studio Code</p>
+<p align="center">📀 Oracle VM VirtualBox</p>
+<p align="center">🌐 Cisco Packet Tracer</p>
+<p align="center">🐍 Python</p>
+<p align="center">💎 C#</p>
+<p align="center">🌐 HTML</p>
+<p align="center">🎨 CSS</p>
 
-<!--
-**MrDennisC/MrDennisC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">Just a tech lover, always trying to find new challenges and wanting to build knowledge.</h4>
